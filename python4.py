@@ -8,11 +8,11 @@ i = 12
 print(float(i))
 print(str(i))
 
-j= 23.45
+j = 23.45
 print(int(j))
 print(str(j))
 
-k='23'
+k ='23'
 print(int(k))
 print(float(k))
 
